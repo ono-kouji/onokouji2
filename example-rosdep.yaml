@@ -1,3 +1,4 @@
+---
 # Example ROS Dependency File
 
 このファイル (`example-rosdep.yaml`) は、ROS パッケージに必要なカスタム依存関係を定義するために使用されます。特定のUbuntuディストリビューション（この場合はFocal）のための依存関係が記述されています。
